@@ -1,0 +1,92 @@
+@media only screen and (max-width: 599px){
+    body{
+        background-color: hsl(212, 45%, 89%);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+    .box{
+        height: auto;
+        overflow: hidden;
+        width: 80%;
+        background-color: white;
+        border-radius: 5vw;
+        padding: 4vw;
+        padding-bottom: 6vw;
+    }
+    .box__elements{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .box__qr{
+        width: 75vw;
+        height: 75vw;
+        border-radius: 3vw;
+    }
+    h1{
+        font-family: 'Outfit', sans-serif;
+        font-weight: 700;
+        font-size: 6vw;
+        margin: 0;
+        margin-top: 5.5vw;
+    }
+    p{
+        font-family: 'Outfit', sans-serif;
+        font-weight: 400;
+        font-size: 4.5vw;
+        color: hsl(220, 15%, 55%) ;
+        margin: 0;
+        margin-top: 5vw;
+        margin-bottom: 6vw;
+    }
+}
+@media only screen and (min-width: 600px){
+    body{
+        background-color: hsl(212, 45%, 89%);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+    }
+    .box{
+        height: auto;
+        overflow: hidden;
+        width: 22%;
+        background-color: white;
+        border-radius: 1.3vw;
+        padding: 1vw;
+        padding-bottom: 0;
+    }
+    .box__elements{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .box__qr{
+        width: 22vw;
+        height: 22vw;
+        border-radius: 1vw;
+    }
+    h1{
+        font-family: 'Outfit', sans-serif;
+        font-weight: 700;
+        font-size: 1.7vw;
+        margin: 0;
+        margin-top: 2vw;
+    }
+    p{
+        font-family: 'Outfit', sans-serif;
+        font-weight: 400;
+        font-size: 1.3vw;
+        color: hsl(220, 15%, 55%) ;
+        margin: 0;
+        margin-top: 2vw;
+        margin-bottom: 4vw;
+    }
+}
