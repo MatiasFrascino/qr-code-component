@@ -36,4 +36,4 @@ This is a project showcasing a responsive card created using flexbox. On the car
 
 - GitHub - [Matias Frascino](https://github.com/MatiasFrascino)
 - Frontend Mentor - [@MatiasFrascino](https://www.frontendmentor.io/profile/MatiasFrascino)
-- Linkedin - [Matias Frascino](www.linkedin.com/in/matias-sebastian-frascino-60332316b)
+- Linkedin - [Matias Frascino](https://www.linkedin.com/in/matias-sebastian-frascino-60332316b/)
